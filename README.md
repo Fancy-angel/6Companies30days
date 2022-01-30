@@ -128,3 +128,25 @@
 - [x] 14.As far from land as possible.<a href="https://leetcode.com/problems/as-far-from-land-as-possible/">Link</a>
 - [x] 15.Koko eating bananas.<a href="https://leetcode.com/problems/koko-eating-bananas/">Link</a>
 
+#### Day 26-30 :
+#### Company Name : Walmart
+
+<b>Doc </b><a href="https://docs.google.com/document/u/0/d/1XsyXdufDAK1C6PbC0KNeO95ydbH8qlsGnkyThkS-1bs/mobilebasic"><strong>Link »</strong></a><br/>
+<b>Youtube Video </b> <a href="https://www.youtube.com/watch?v=zLzfRq7wm7Q"><strong>Link »</strong></a><br/>
+
+
+- [x] 1.Path with Maximum Probability. <a href="https://leetcode.com/problems/path-with-maximum-probability/">Link</a>
+- [x] 2.Stone Game <a href="https://leetcode.com/problems/stone-game">Link</a>
+- [x] 3.Remove colored pieces if both neighbours have same color<a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color">Link</a>
+- [x] 4.Number of Unique Paths<a href="https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/">Link</a>
+- [x] 5.Transform to sum tree<a href="https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/">Link</a>
+- [x] 6.Power of Number<a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/">Link</a>
+- [x] 7.Sorted Subsequence<a href="https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/">Link</a>
+- [x] 8.Maximum height tree<a href="https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/">Link</a>
+- [x] 9.Guess number higher or lower<a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii">Link</a>
+- [x] 10.Generate uniform random points in a circle<a href="https://leetcode.com/problems/generate-random-point-in-a-circle">Link</a>
+- [x] 11.Maximum Performance of a Team<a href="https://leetcode.com/problems/maximum-performance-of-a-team">Link</a>
+- [x] 12.Find array when subset sums are given<a href="https://leetcode.com/problems/find-array-given-subset-sums">Link</a>
+- [x] 13.Find the Kth Largest Integer in the Array<a href="https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array">Link</a>
+- [x] 14.Largest number in k swaps<a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/">Link</a>
+- [x] 15.Divide two numbers without using division or multiplication operators<a href="https://leetcode.com/problems/divide-two-integers/">Link</a>
